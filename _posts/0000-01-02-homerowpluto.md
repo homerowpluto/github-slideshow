@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Luke Use the left arrow and run to dagobah!
+By azura, by azura, by azura!
+Use the left arrow to go to the next slide!
 
